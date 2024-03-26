@@ -44,6 +44,11 @@ export default function App() {
             descricao = 'Todos os dias tenho um momento de descanso, onde leio um livro ou fico com minha família.'
             imagem = 'https://cdn-icons-png.flaticon.com/512/81/81403.png'
       ></Card>
+      <Card porcentagem = '12,5'
+            titulo = 'Lazer'
+            descricao = 'Todos os dias tenho um momento de descanso, onde leio um livro ou fico com minha família.'
+            imagem = 'https://cdn-icons-png.flaticon.com/512/81/81403.png'
+      ></Card>
     </View>
   );
 }
