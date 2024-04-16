@@ -1,8 +1,8 @@
-const DATA =
+let DATA =
 [
     {
       id: '01',
-      titulo: 'dormir',
+      titulo: 'Dormir',
       descricao: 'Todos os dias eu durmo no mínimo 8h'  ,
       porcentagem: '33,3%',
       imagem: 'https://cdn-icons-png.flaticon.com/512/89/89977.png',
@@ -27,13 +27,6 @@ const DATA =
         titulo:'Cantar',
         descricao:'Não pode faltar no dia, canto enquanto faço as tarefas de casa.',
         imagem: 'https://static.vecteezy.com/system/resources/thumbnails/014/391/889/small/microphone-icon-on-transparent-background-microphone-icon-free-png.png',
-      },
-      {
-        id: '05',
-        titulo: 'Lazer',
-        descricao: 'Todos os dias tenho um momento de descanso, onde leio um livro ou fico com minha família.'  ,
-        porcentagem: '12,6%',
-        imagem: 'https://cdn-icons-png.flaticon.com/512/81/81403.png',
       },
       {
         id: '06',
